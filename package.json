@@ -6,10 +6,11 @@
   },
   "publisher": "iamcco",
   "license": "MIT",
-  "repository": "git@github.com:iamcco/vscode-sense-css-module.git",
+  "repository": "https://github.com/solidjs-sense/vscode-sense-css-module.git",
+  "icon": "logo.png",
   "displayName": "sense-css-module",
   "description": "sense css module extension for VS Code",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.79.0"
   },
